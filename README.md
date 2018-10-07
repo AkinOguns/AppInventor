@@ -1,2 +1,2 @@
 # AppInventor
-This is for same app inventor tutorials
+This is for some app inventor tutorials
